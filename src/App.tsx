@@ -48,7 +48,6 @@ export default class App extends Component<{}, IState> {
 
     private onSave = () => {
         const {data} = this.state;
-        console.log('this.state.data', data);
         const blob = new Blob([JSON.stringify(data)], {
             type: 'application/json',
         });
