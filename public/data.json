@@ -1,0 +1,17 @@
+{
+  "1A": {
+    "name": "Красный",
+    "sortOrder": 3,
+    "style": { "color": "#FF0000" }
+  },
+  "H5": {
+    "name": "Синий",
+    "sortOrder": 1,
+    "style": { "color": "#00FF00" }
+  },
+  "RE": {
+    "name": "Зеленый",
+    "sortOrder": 53,
+    "style": { "color": "#0000FF" }
+  }
+}
